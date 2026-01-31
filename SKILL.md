@@ -89,4 +89,4 @@ Options:
 - **Self-custodial**: the mnemonic is the wallet. Back it up. Lose it, lose funds.
 - **Daemon**: runs a local Lightning node on `:3456`. Auto-starts, persists payment history to disk.
 - **Agent-to-agent payments**: any agent with this wallet can pay any other agent's invoice or lightning address. No intermediary.
-- **Combine with moneydevkit**: use the [checkout API](https://docs.moneydevkit.com) to accept payments from customers, and agent-wallet to send/receive between agents. Add the [moneydevkit MCP server](https://mcp.moneydevkit.com) for full programmatic access to apps, products, customers, checkouts, and orders.
+- **Combine with moneydevkit**: use the [checkout API](https://docs.moneydevkit.com) to accept payments from customers, and agent-wallet to send/receive between agents. Add the [moneydevkit MCP server](https://mcp.moneydevkit.com/mcp) for full programmatic access to apps, products, customers, checkouts, and orders.
